@@ -29,6 +29,8 @@ cd Mocking-bot/Software/audioset
 curl -O https://storage.googleapis.com/audioset/vggish_model.ckpt
 curl -O https://storage.googleapis.com/audioset/vggish_pca_params.npz
 
+# And copy the same to models folder
+
 #Let test it.
 
 python vggish_smoke_test.py
