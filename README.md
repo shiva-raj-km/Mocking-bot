@@ -89,8 +89,8 @@ This data is transfered to Bot part of the controller using serial communication
 ## Hardware part: 
 
 It has two parts:
--Bot
--Instrument
+- Bot
+- Instrument
 
 Bot part has one atmega2560 controller, servos for striking, belt drive system to move the striker. The code for this part is in Hardware/Bot folder and is build in atmel studio 6. Library files which used are all included in the same.
 
