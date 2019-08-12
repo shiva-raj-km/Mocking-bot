@@ -104,4 +104,5 @@ Reference links:
 - pydub - <https://www.pydoc.io/pypi/pydub-0.9.5/autoapi/audio_segment/index.html>
 - scipy wavefile - <https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.io.wavfile.read.html>
 - Standard music notes and their frequencies - <http://pages.mtu.edu/~suits/notefreqs.html>
+- Sonic visualizer tool is used to view and analyse the audio file - <https://www.sonicvisualiser.org>
 
